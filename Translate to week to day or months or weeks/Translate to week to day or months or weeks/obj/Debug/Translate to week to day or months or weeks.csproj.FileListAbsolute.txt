@@ -1,0 +1,7 @@
+C:\Users\Sergio\source\repos\Translate to week to day or months or weeks\Translate to week to day or months or weeks\bin\Debug\Translate to week to day or months or weeks.exe.config
+C:\Users\Sergio\source\repos\Translate to week to day or months or weeks\Translate to week to day or months or weeks\bin\Debug\Translate to week to day or months or weeks.exe
+C:\Users\Sergio\source\repos\Translate to week to day or months or weeks\Translate to week to day or months or weeks\bin\Debug\Translate to week to day or months or weeks.pdb
+C:\Users\Sergio\source\repos\Translate to week to day or months or weeks\Translate to week to day or months or weeks\obj\Debug\Translate to week to day or months or weeks.csprojAssemblyReference.cache
+C:\Users\Sergio\source\repos\Translate to week to day or months or weeks\Translate to week to day or months or weeks\obj\Debug\Translate to week to day or months or weeks.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Translate to week to day or months or weeks\Translate to week to day or months or weeks\obj\Debug\Translate to week to day or months or weeks.exe
+C:\Users\Sergio\source\repos\Translate to week to day or months or weeks\Translate to week to day or months or weeks\obj\Debug\Translate to week to day or months or weeks.pdb
